@@ -1,0 +1,10 @@
+footer {
+    ul {
+        @extend .flex-row;
+        list-style: none;
+        button {
+            @extend .button;
+        }
+    }
+
+}

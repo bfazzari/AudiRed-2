@@ -1,0 +1,22 @@
+.flex-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    padding: 5px;
+    background-color: $azulClaro;
+    color: $grisClaro;
+    border-radius: 15px;
+}
+.text-center{
+    text-align: center;
+    padding: 10px;
+}
+

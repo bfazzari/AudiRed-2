@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .logo {
+        img {
+            width: 250px;
+        }
+    }
+
+    .nav {
+        ul {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            li {
+                list-style: none;
+
+                a {
+                    text-decoration: none;
+                    padding: 0 10px;
+                }
+            }
+        }
+
+    }
+}

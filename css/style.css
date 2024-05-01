@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .header .logo img {
+    width: 250px; }
+  .header .nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .header .nav ul li {
+      list-style: none; }
+      .header .nav ul li a {
+        text-decoration: none;
+        padding: 0 10px; }

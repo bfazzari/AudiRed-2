@@ -44,6 +44,10 @@
         padding: 0 10px;
         color: white; }
 
+@media (max-width: 890px) {
+  .header {
+    background-color: #e0e2e3; } }
+
 .main-index h1 {
   font-family: "Jersey 15", sans-serif;
   font-size: 45px;

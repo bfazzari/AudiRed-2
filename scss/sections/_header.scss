@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    background-color: $azulOscuro;
     .logo {
         img {
             width: 250px;
@@ -21,6 +21,7 @@
                 a {
                     text-decoration: none;
                     padding: 0 10px;
+                    color: white;
                 }
             }
         }
